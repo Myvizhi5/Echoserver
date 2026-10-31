@@ -66,10 +66,10 @@ print(f"Received {data!r}")
 
 ```
 ## OUTPUT:
-###server output
+### server output
 ![server](./img/echo-server.png)
 
-###client output
+### client output
 ![client](./img/echo-client.png)
 
 ## RESULT:
